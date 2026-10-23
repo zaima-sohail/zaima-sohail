@@ -1,5 +1,6 @@
- <div align="center">
 
+ <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full%20Stack%20Developer&descAlignY=55" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D27,50:342A87,100:00C9FF&height=200&section=header&text=ZAIMA%20SOHAIL&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Zaima Sohail profile header"/>
 
 <a href="https://readme-typing-svg.demolab.com">

@@ -1,10 +1,9 @@
+<div align="center">
 
- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full%20Stack%20Developer&descAlignY=55" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D27,50:342A87,100:00C9FF&height=200&section=header&text=ZAIMA%20SOHAIL&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Zaima Sohail profile header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+%26+Deep+Learning;Building+Ideas+Into+Real+Projects" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+Intern+%40+VAULTX+Cyber+Tech;Machine+Learning+%26+Deep+Learning;Building+Ideas+Into+Real+Projects" alt="Animated introduction"/>
 </a>
 
 <p>
@@ -33,7 +32,7 @@ I enjoy exploring new technologies, experimenting with AI models, and developing
 > *Learn continuously. Build intelligently. Create meaningful impact.*
 
 ---
-## Experience 
+
 ## 💼 Experience
 
 ### 🤖 Artificial Intelligence Intern
@@ -43,8 +42,6 @@ I enjoy exploring new technologies, experimenting with AI models, and developing
 - Working in **Artificial Intelligence (AI) and Engineering**
 - Contributing to AI-focused projects as part of the company's internship program
 
----
-
 ### 💻 Full Stack Developer Intern
 **Khizex** · Internship · Remote (Lahore, Punjab, Pakistan)
 📅 Jul 2026 · 6 weeks
@@ -52,6 +49,9 @@ I enjoy exploring new technologies, experimenting with AI models, and developing
 - Completed a 6-week virtual **Full Stack Development** internship
 - Strengthened full-stack development skills through hands-on, practical work
 - Focus areas: **Full-Stack Development and Software Design**
+
+---
+
 ## 🚀 Projects & Repositories
 
 <div align="center">
@@ -95,13 +95,12 @@ An AI-powered application that converts YouTube transcripts into concise, struct
 
 A collection of projects exploring Machine Learning concepts and their practical implementation.
 
-**Explore the repository**
 - Supervised and unsupervised learning
 - Predictive modeling and classification
 - Model training and evaluation
 - Data preprocessing and experimentation
 
-**Technologies to explore:** Python · NumPy · Pandas · Matplotlib · Scikit-learn
+**Technologies:** Python · NumPy · Pandas · Matplotlib · Scikit-learn
 
 <a href="https://github.com/zaima-sohail/Machine_learning_projects"><img src="https://img.shields.io/badge/Explore_ML_Projects-0078D4?style=for-the-badge&logo=github" alt="Explore Machine Learning projects"/></a>
 
@@ -109,17 +108,14 @@ A collection of projects exploring Machine Learning concepts and their practical
 
 A dedicated collection for exploring neural networks and Deep Learning techniques through practical projects.
 
-**Areas of exploration**
 - Neural network architectures
 - Deep learning model training
 - Data preparation and model evaluation
 - AI experimentation and performance analysis
 
-**Technologies to explore:** Python · TensorFlow · Keras · PyTorch
+**Technologies:** Python · TensorFlow · Keras · PyTorch
 
 <a href="https://github.com/zaima-sohail/Deep_learning_projects"><img src="https://img.shields.io/badge/Explore_DL_Projects-8A2BE2?style=for-the-badge&logo=github" alt="Explore Deep Learning projects"/></a>
-
-*Visit each repository for the actual notebooks, implementations, and project-specific dependencies.*
 
 ---
 
@@ -168,13 +164,9 @@ A dedicated collection for exploring neural networks and Deep Learning technique
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-*Keep only the tools and technologies you have actually used or can confidently discuss.*
-
 ---
 
 ## 📜 Certifications & Professional Learning
-
-I use certifications and structured learning to strengthen my understanding of AI, programming, and cloud technologies.
 
 - **AI Fluency Framework & Foundations** — Anthropic
 - **Introduction to Large Language Models** — Google
@@ -186,16 +178,12 @@ I use certifications and structured learning to strengthen my understanding of A
 - **Programming Essentials in Python** — Cisco Networking Academy
 - **Partnering with AI in the Workplace Job Simulation** — Forage
 
-*Verify each title and issuer against your LinkedIn credentials before publishing. Add individual credential links where available.*
-
 ---
 
 ## 🏆 Honors & Professional Activities
 
 - **Google Developer Program** — Google Cloud
 - **Web Development Competition Hackathon Participant** — IEEE GCU Student Branch
-
-*These entries should reflect your actual LinkedIn records; participation is not the same as winning a competition.*
 
 ---
 
@@ -231,7 +219,6 @@ I use certifications and structured learning to strengthen my understanding of A
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zaima-sohail-aa8baa375/"><img src="https://img.shields.io/badge/LinkedIn-Zaima%20Sohail-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/></a>
-
 <a href="https://github.com/zaima-sohail"><img src="https://img.shields.io/badge/GitHub-zaima--sohail-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
 
 <br/><br/>

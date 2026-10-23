@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080D27,50:342A87,100:00C9FF&height=240&section=header&text=Zaima%20Sohail&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Development&descAlignY=62&descSize=18" width="100%" alt="Zaima Sohail"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D27,50:342A87,100:00C9FF&height=220&section=header&text=Zaima%20Sohail&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=18" width="100%" alt="Zaima Sohail"/>
 
 <a href="https://github.com/zaima-sohail">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&height=45&lines=AI+Intern+%40+VAULTX+Cyber+Tech;Computer+Science+Student+%40+LCWU;Building+Intelligent+Applications+with+Python;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI" alt="Typing animation"/>
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zaima-sohail&label=Profile+Views&color=342A87&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-342A87?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/github/followers/zaima-sohail?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/zaima-sohail?label=Total%20Stars&style=for-the-badge&logo=github&color=00897B" alt="Stars"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C9FF?style=for-the-badge" alt="Open to opportunities"/>
@@ -223,13 +223,7 @@ A collection for exploring neural networks and Deep Learning techniques through 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zaima-sohail&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaima-sohail&bg_color=0d1117&color=00d4ff&line=342A87&point=ffffff&area=true&area_color=342A87&hide_border=true" alt="Contribution activity graph"/>
-
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaima-sohail/zaima-sohail/output/github-snake-dark.svg"/>

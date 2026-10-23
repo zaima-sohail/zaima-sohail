@@ -32,7 +32,25 @@ I enjoy exploring new technologies, experimenting with AI models, and developing
 > *Learn continuously. Build intelligently. Create meaningful impact.*
 
 ---
+## Experience 
+## 💼 Experience
 
+### 🤖 Artificial Intelligence Intern
+**VAULTX CYBER TECH Pvt Ltd** · Internship · Remote (Lahore, Punjab, Pakistan)
+📅 Aug 2026 – Present
+
+- Working in **Artificial Intelligence (AI) and Engineering**
+- Contributing to AI-focused projects as part of the company's internship program
+
+---
+
+### 💻 Full Stack Developer Intern
+**Khizex** · Internship · Remote (Lahore, Punjab, Pakistan)
+📅 Jul 2026 · 6 weeks
+
+- Completed a 6-week virtual **Full Stack Development** internship
+- Strengthened full-stack development skills through hands-on, practical work
+- Focus areas: **Full-Stack Development and Software Design**
 ## 🚀 Projects & Repositories
 
 <div align="center">
